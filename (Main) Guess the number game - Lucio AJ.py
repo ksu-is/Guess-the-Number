@@ -25,3 +25,11 @@ def check_answer():
             text.set(f"Incorrect! you have {attempts} remaining - Go a bit lower!")
     except ValueError:
         text.set("Please enter a valid mumber only (ex. 0, 1, 2, 3)")
+root = Tk()
+root.title("Guess that Number!")
+root.geometry('500x158')
+
+Label(root, text="Guess the number between 1 through 100").pack()
+
+entry_window = Entry(root, width=40, borderwidth=4)
+entry_window.pack()
