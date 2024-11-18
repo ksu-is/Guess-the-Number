@@ -2,4 +2,7 @@
 - [X] Find an resperetory coding that could fit for your topic (DONE)
 - [X] Add it to KSU-IS organization (DONE)
 - [X] Edit the README.MD FILE (DONE)
-- [ ] Test the code if it has no errors or mistakes
+- [X] Test the code if it has no errors or mistakes (Done)
+- [X] Check to see if the code function clearly (Done)
+- [ ] Reflect, does the code seems good
+- [ ] Is there any addition of lines or code that is need to be in?
