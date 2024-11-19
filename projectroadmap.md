@@ -4,5 +4,6 @@
 - [X] Edit the README.MD FILE (DONE)
 - [X] Test the code if it has no errors or mistakes (Done)
 - [X] Check to see if the code function clearly (Done)
-- [ ] Reflect, does the code seems good
-- [ ] Is there any addition of lines or code that is need to be in?
+- [X] Reflect, does the code seems good (DONE)
+- [X] Is there any addition of lines or code that is need to be in? (DONE)
+- [X] Refreash and try out the code for yourself (DONE)
