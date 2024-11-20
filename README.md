@@ -5,8 +5,4 @@ This is text file consisting information on the Project "Guess the Number"
 
 This code is written in Python
 
-Rules of the Game:
-
-Use your Numberpad to Enter a Number.
-The Number Must be between [0,100]
-After every new input, the compiler will give you tips for your next move. The tips are as follows: i. Almost There - The hidden number is +/-10 numbers from your current input ii. Too Far - The hidden number is more than 10 numbers away from your current input iii. You are getting Closer - You are Heading in the right way iv. You are moving Far Away - You are Heading in the wrong way.
+Have you ever feel boared at school and the WIFI service has been crashing out, Well try out this game out, "Guess the Number". This is a guessing game where the computer or a player(you) thinks of a number and guess of the within a certain range. Wheather the number too low or too high.
